@@ -1,0 +1,22 @@
+# Prodej bytu, 2+kk, 42,2 m²
+
+> V rámci developerského projektu Byty Přerov nabízíme exklusivně k prodeji do osobního vlastnictví moderní byt 2+kk o velikosti 42,2 m2, umístěný ve 4. NP. Byt je součástí kompletně revitalizovaného cihlového domu v samotném centru Přerova. Součástí domu je i privátní sauna s parním boxem. Ideální volba pro rodinu hledající dostupné a kvalitní bydlení. Vhodné i na investici. Předpokládaný termín do
+
+## Fakta
+- Typ: Byty
+- Druh nabídky: Prodej
+- Dispozice: 2+kk
+- Plocha: 42.2 m²
+- Podlaží: 4
+- Stav: po rekonstrukci
+- Vlastnictví: osobní
+- Energetická náročnost: D
+- Lokalita: Přerov I-Město, Přerov
+- Cena: 2 950 000 Kč
+
+## Kontakt
+- Makléř: Ondrej Srnka
+- Telefon: +420777035835
+- E-mail: srnka.o@connectedevelopment.cz
+- Kancelář: Connecte DEVELOPMENT s.r.o.
+- Web kanceláře: http://connectedevelopment.cz
